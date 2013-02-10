@@ -1,0 +1,62 @@
+To Lands Unknown - ChangeLog
+----------------------------
+
+Version 1.6.0
+
+- Dependencies
+    * Moved all images with no translatable content into a separate add-on
+      called To Lands Unknown: Images
+    * Requires Era of Magic 1.0.0
+
+- Language and Translations
+    * New translations: German, Hungarian
+    * Updated translation: Polish
+
+- Scenarios
+    * Converted instances of Ggf to Gg^Efm in scenario 14
+
+
+Version 1.5.6
+
+- Units
+    * Stop using AMLA_EXPERIENCE
+
+Version 1.5.5
+
+- Units
+    * Made units conform to 1.9.10's AMLA XP standards
+    * Made it so that all non-EoMa units' help topics are hidden
+
+Version 1.5.4
+
+- Language and Translations
+    * New translation: Polish
+
+- Other
+    * Got rid of portal-end.png again
+    * Tiled the jungle terrain
+    * Tiled castle/villages in Fire Canyon
+    * Made rain match rain from Wesnoth 1.8
+    * Removed a compatability hack, thus dropping support for 1.9.4 and below
+
+Version 1.5.3
+
+- Language and Translations
+    * Converted all straight quotation marks and apostrophes to proper form
+    * Converted all fake dashes to proper form
+
+- Scenarios
+    * Added a warning about rain damage in scenario 14
+
+- Other
+    * Added missing image: portal-end.png
+    * Code improvements preventing Neutral Summoners from summoning jinns too early in-game
+    * Fixed broken UTF-8 in various files
+
+Version 1.5.2
+
+- Scenarios
+    * Fixed a broken reference to scenario five
+
+- Other
+    * Began to keep a changelog
