@@ -3,13 +3,14 @@ msgstr ""
 "Project-Id-Version: To_Lands_Unknown-1.12\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-08-25 19:00-0400\n"
-"PO-Revision-Date: 2013-02-10 18:56-0500\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2014-05-24 04:48+0800\n"
+"Last-Translator: 沈觅仁 <dickeny@gmail.com>\n"
 "Language-Team: none\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
 
 #: To_Lands_Unknown/_main.cfg:23
 msgid ""
@@ -26,78 +27,87 @@ msgid ""
 "As once foretold,\n"
 "saved all life in this world.</i>"
 msgstr ""
+"\n"
+"<i>在世人未闻的荒芜之地，有一个故事亘古流传着：\n"
+"阿尔卡米伽城的召唤者们，\n"
+"深谙玄妙奇幻的魔法，带领着亦真亦虚的强大仆从。\n"
+"人们传说，有位奇人，名曰Mehir，曾拯救世界。</i>"
 
 #: To_Lands_Unknown/_main.cfg:39
 msgid ""
 "\n"
 "This is the story of Mehir, the Summoner, and his journey to lands unknown."
 msgstr ""
+"\n"
+"这是关于召唤者Mehir，前往未闻之境的故事。"
 
 #: To_Lands_Unknown/_main.cfg:41
 msgid ""
 "\n"
 "(Intermediate or Expert level. 16 playable scenarios.)"
 msgstr ""
+"\n"
+"（中级或专家级别，16幕场景。）"
 
 #. [campaign]: id=To_Lands_Unknown
 #: To_Lands_Unknown/_main.cfg:50
 msgid "To Lands Unknown"
-msgstr ""
+msgstr "未闻之境"
 
 #. [campaign]: id=To_Lands_Unknown
 #: To_Lands_Unknown/_main.cfg:51
 msgid "TLU"
-msgstr ""
+msgstr "TLU"
 
 #. [campaign]: id=To_Lands_Unknown
 #: To_Lands_Unknown/_main.cfg:56
 msgid "(Easy)"
-msgstr ""
+msgstr "（容易）"
 
 #. [campaign]: id=To_Lands_Unknown
 #: To_Lands_Unknown/_main.cfg:56
 msgid "Novice Summoner"
-msgstr ""
+msgstr "召唤学徒"
 
 #. [campaign]: id=To_Lands_Unknown
 #: To_Lands_Unknown/_main.cfg:57
 msgid "(Normal)"
-msgstr ""
+msgstr "（普通）"
 
 #. [campaign]: id=To_Lands_Unknown
 #: To_Lands_Unknown/_main.cfg:57
 msgid "Summoner"
-msgstr ""
+msgstr "召唤师"
 
 #. [campaign]: id=To_Lands_Unknown
 #: To_Lands_Unknown/_main.cfg:58
 msgid "(Hard)"
-msgstr ""
+msgstr "（困难）"
 
 #. [campaign]: id=To_Lands_Unknown
 #: To_Lands_Unknown/_main.cfg:58
 msgid "Grand Summoner"
-msgstr ""
+msgstr "召唤大师"
 
 #. [campaign]: id=To_Lands_Unknown
 #: To_Lands_Unknown/_main.cfg:60
 msgid "<span color='#BCB088' size='large'>To Lands Unknown</span>"
-msgstr ""
+msgstr "<span color='#BCB088' size='large'>未闻之境</span>"
 
 #. [about]
 #: To_Lands_Unknown/about.cfg:4
 msgid "Campaign Design"
-msgstr ""
+msgstr "战役设计"
 
 #. [about]
 #: To_Lands_Unknown/about.cfg:10
 msgid "Artwork and Level Design"
-msgstr ""
+msgstr "美术与等级设计"
 
 #. [about]
 #: To_Lands_Unknown/about.cfg:16
 msgid "WML coding"
-msgstr ""
+msgstr "WML编写者"
 
 #. [about]
 #: To_Lands_Unknown/about.cfg:28
@@ -112,7 +122,7 @@ msgstr ""
 #. [about]
 #: To_Lands_Unknown/about.cfg:55
 msgid "Translations"
-msgstr ""
+msgstr "翻译"
 
 #. [about]
 #: To_Lands_Unknown/about.cfg:70
@@ -122,13 +132,14 @@ msgstr ""
 #: To_Lands_Unknown/dependency-utils.cfg:20
 msgid ""
 "The required add-on “<i>Era of Magic</i>” is currently <b>not</b> installed."
-msgstr ""
+msgstr "本战役依赖的附加组件“<i>Era of Magic</i>”战役目前<b>尚未</b>安装。"
 
 #: To_Lands_Unknown/dependency-utils.cfg:29
 msgid ""
 "The required add-on “<i>To Lands Unknown: Images</i>” is currently <b>not</"
 "b> installed."
 msgstr ""
+"本战役依赖的附加组件“<i>To Lands Unknown: Images</i>”目前<b>尚未</b>安装。"
 
 #. [dummy]: id=metamorph
 #: To_Lands_Unknown/macros/abilities.cfg:7
@@ -1378,7 +1389,7 @@ msgstr ""
 #: To_Lands_Unknown/scenarios/11_A_New_Leader.cfg:64
 #: To_Lands_Unknown/units/Elder.cfg:4
 msgid "Elder"
-msgstr ""
+msgstr "老人"
 
 #. [unit]: type=EoMa_Neutral_Summoner, id=Samir
 #: To_Lands_Unknown/scenarios/01_al-Kamija.cfg:610
@@ -4547,7 +4558,7 @@ msgstr ""
 #. [side]: type=EoMa_Master_of_Darkness, id=Master
 #: To_Lands_Unknown/scenarios/14_Gates_of_Kharos.cfg:57
 msgid "Master of Darkness"
-msgstr ""
+msgstr "暗夜之王"
 
 #. [side]: type=EoMa_Master_of_War
 #: To_Lands_Unknown/scenarios/14_Gates_of_Kharos.cfg:91
@@ -5175,7 +5186,7 @@ msgstr ""
 #: To_Lands_Unknown/scenarios/16_The_Last_Summoner.cfg:5
 #: To_Lands_Unknown/units/AlKamija_LastSummoner.cfg:4
 msgid "The Last Summoner"
-msgstr ""
+msgstr "最后的召唤者"
 
 #. [side]: type=EoMa_Master_of_Water, id=MasterWater
 #: To_Lands_Unknown/scenarios/16_The_Last_Summoner.cfg:40
@@ -5185,7 +5196,7 @@ msgstr ""
 #. [side]: type=EoMa_Master_of_Water, id=MasterWater
 #: To_Lands_Unknown/scenarios/16_The_Last_Summoner.cfg:44
 msgid "Master of Water"
-msgstr ""
+msgstr "海洋之王"
 
 #. [side]: type=EoMa_Mastermage, id=Mastermage
 #: To_Lands_Unknown/scenarios/16_The_Last_Summoner.cfg:63
@@ -5200,7 +5211,7 @@ msgstr ""
 #. [side]: type=EoMa_Master_of_Fire, id=MasterFire
 #: To_Lands_Unknown/scenarios/16_The_Last_Summoner.cfg:89
 msgid "Master of Fire"
-msgstr ""
+msgstr "火焰之王"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/16_The_Last_Summoner.cfg:167
@@ -6055,7 +6066,7 @@ msgstr ""
 #: To_Lands_Unknown/units/AlKamija_DharmaRashti.cfg:4
 #: To_Lands_Unknown/units/AlKamija_DharmaRashti2.cfg:4
 msgid "DharmaRashti"
-msgstr ""
+msgstr "达摩"
 
 #. [unit_type]: id=TLU_DharmaRashti, race=I8 magical
 #. [unit_type]: id=TLU_DharmaRashti2, race=I8 magical
@@ -6243,28 +6254,28 @@ msgstr ""
 #: To_Lands_Unknown/units/Mehir_Commander.cfg:125
 #: To_Lands_Unknown/units/Mehir_guard.cfg:125
 msgid "Max HP bonus +5, MAX XP +10%"
-msgstr ""
+msgstr "最大生命值+5，最大经验值+10%"
 
 #. [advancement]: id=AMLA_HP
 #: To_Lands_Unknown/units/Mehir_Commander2.cfg:12
 #: To_Lands_Unknown/units/Mehir_Leader.cfg:87
 msgid "Max HP bonus +5"
-msgstr ""
+msgstr "最大生命值+5"
 
 #. [advancement]: id=AMLA_RESISTANCE
 #: To_Lands_Unknown/units/Mehir_Leader.cfg:12
 msgid "+20% bonus to fire, cold, and arcane resistances"
-msgstr ""
+msgstr "+20%火焰、寒冰、奥术抗性"
 
 #. [advancement]: id=AMLA_SLOWINGAURA
 #: To_Lands_Unknown/units/Mehir_Leader.cfg:33
 msgid "Slowing Aura"
-msgstr ""
+msgstr "迟缓领域"
 
 #. [dummy]: id=i8slowingaura
 #: To_Lands_Unknown/units/Mehir_Leader.cfg:40
 msgid "slowing aura"
-msgstr ""
+msgstr "迟缓领域"
 
 #. [dummy]: id=i8slowingaura
 #: To_Lands_Unknown/units/Mehir_Leader.cfg:41
@@ -6272,16 +6283,18 @@ msgid ""
 "Slowing Aura:\n"
 "At the beginning of each turn, all adjacent enemy units are slowed."
 msgstr ""
+"迟缓领域：\n"
+"每回合开始时，围绕本单位的所有敌人都会被减速。"
 
 #. [advancement]: id=AMLA_DAMAGINGAURA
 #: To_Lands_Unknown/units/Mehir_Leader.cfg:60
 msgid "Damaging Aura"
-msgstr ""
+msgstr "修罗领域"
 
 #. [dummy]: id=i8damagingaura
 #: To_Lands_Unknown/units/Mehir_Leader.cfg:67
 msgid "damaging aura"
-msgstr ""
+msgstr "修罗领域"
 
 #. [dummy]: id=i8damagingaura
 #: To_Lands_Unknown/units/Mehir_Leader.cfg:68
@@ -6290,6 +6303,8 @@ msgid ""
 "At the beginning of each turn, all adjacent enemy units receive 8 points of "
 "damage."
 msgstr ""
+"修罗领域：\n"
+"每回合开始时，围绕本单位的所有敌人都会受到8点伤害。"
 
 #. [unit_type]: id=TLU_wyvern_great_pikeman_shaman
 #: To_Lands_Unknown/units/wyverngreatlancershaman.cfg:4
